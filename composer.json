@@ -1,0 +1,20 @@
+{
+  "name": "abovesky/think-annotation-validate",
+  "authors": [
+    {
+      "name": "tianshaofeng",
+      "email": "abovesky@qq.com"
+    }
+  ],
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Abovesky\\Annotation\\Validate\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=7.1.0",
+    "topthink/framework": "5.1.*",
+    "wangyu/reflex-core": ">=0.0.1"
+  }
+}
